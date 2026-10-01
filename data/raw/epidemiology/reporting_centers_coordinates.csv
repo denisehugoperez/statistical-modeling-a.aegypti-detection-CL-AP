@@ -1,0 +1,8 @@
+source_name,normalized_name,longitude,latitude,address,crs,coordinate_source
+Centro Centinela,CENTRO CENTINELA,-70.2908487,-18.4376757,"Consultorio Dr. Amador Neghme, Cancha Rayada 4149, 1030303 Arica, Arica y Parinacota",EPSG:4326,legacy_notebook
+Centro de Salud Familiar E.U. Iris Veliz Hume (Ex Oriente),CENTRO DE SALUD FAMILIAR E U IRIS VELIZ HUME EX ORIENTE,-70.2824404,-18.4839345,"Ramón Barros Luco 2699, Arica, Arica y Parinacota",EPSG:4326,legacy_notebook
+Centro de Salud Familiar Remigio Sapunar,CENTRO DE SALUD FAMILIAR REMIGIO SAPUNAR,-70.3081523,-18.4803908,"Silvia Arriagada 1020, Arica, Arica y Parinacota",EPSG:4326,legacy_notebook
+Clínica San José,CLINICA SAN JOSE,-70.3067236,-18.4836186,"Avenida Dr. Juan Noe 1370, 1000000 Arica, Arica y Parinacota",EPSG:4326,legacy_notebook
+Hospital Regional Dr. Juan Noé Crevanni (Arica),HOSPITAL REGIONAL DR JUAN NOE CREVANNI ARICA,-70.3130462,-18.4829548,"18 de Septiembre 1000, 1000875 Arica, Arica y Parinacota",EPSG:4326,legacy_notebook
+Posta de Salud Rural San Miguel de Azapa,POSTA DE SALUD RURAL SAN MIGUEL DE AZAPA,-70.1785269,-18.5183537,"Los Araucanos, San Miguel de Azapa, Arica y Parinacota",EPSG:4326,legacy_notebook
+SEREMI Salud Arica y Parinacota,SEREMI SALUD ARICA Y PARINACOTA,-70.3150415,-18.4795622,"Maipú 410, Arica",EPSG:4326,legacy_notebook

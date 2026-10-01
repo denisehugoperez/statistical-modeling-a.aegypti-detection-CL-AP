@@ -1,0 +1,2 @@
+fuente,ruta,bytes,filas,columnas,crs,row_groups,metadatos_archivo
+ERA5 ambiental agregado,C:\tesis_aedes_grilla_2024\data\raw\environment\era5_weather_altitude_epiweek_2024_population.parquet,2741696,177323,16,EPSG:4326,1,"['ARROW:schema', 'geo', 'pandas']"

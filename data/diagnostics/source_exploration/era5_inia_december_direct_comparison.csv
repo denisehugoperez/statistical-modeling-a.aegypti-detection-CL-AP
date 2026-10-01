@@ -1,0 +1,7 @@
+zona_altitud,tmean_c,rh_mean,fuente_periodo
+Litoral y valles (<1000 m),19.388974488576256,70.01523680168285,ERA5 (diciembre 2024)
+Desierto interior (1000–1999 m),18.381462209911916,61.92232316125827,ERA5 (diciembre 2024)
+Marginal de altura (2000–3499 m),13.510864998459386,57.6347776044577,ERA5 (diciembre 2024)
+Altiplano (≥3500 m),7.559328325869914,49.18185490861068,ERA5 (diciembre 2024)
+Altiplano (≥3500 m),7.6,57.0,INIA (diciembre 2021)
+Litoral y valles (<1000 m),19.366666666666667,63.0,INIA (diciembre 2021)

@@ -1,0 +1,6 @@
+control,filas_evaluadas,filas_fallidas,porcentaje_fallido,estado
+tmin_c ≤ tmean_c ≤ tmax_c,177268,0,0.0,válido
+rh_min ≤ rh_mean ≤ rh_max,177268,0,0.0,válido
+humedad relativa dentro de 0–100 %,177268,0,0.0,válido
+tp_sum no negativa,177268,0,0.0,válido
+alt_min ≤ alt_mean ≤ alt_max,177008,0,0.0,válido

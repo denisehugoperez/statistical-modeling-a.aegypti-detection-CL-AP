@@ -1,0 +1,10 @@
+source,control,state,evidence,action
+ERA5,estructura del panel,válido,0 problemas estructurales fuera de las filas sin periodo documentadas,Conservar
+ERA5,nulos,advertencia,315 filas con algún nulo ambiental,Investigar patrón y origen; no reemplazar por cero
+ERA5,consistencia física interna,válido,0 fallas,Conservar
+ERA5,unidad y agregación de tp_sum,no evaluable,metadatos de campo: ausentes,"Rastrear ERA5 original, desacumulación, conversión y agregación antes de interpretar"
+NDVI,inventario BI01–BI26,válido,"[{'metric': 'ndvi_media_bisemanal', 'bisemanas_unicas': 26, 'duplicados': 0}, {'metric': 'ndvi_maximo_bisemanal', 'bisemanas_unicas': 26, 'duplicados': 0}, {'metric': 'ndvi_minimo_bisemanal', 'bisemanas_unicas': 26, 'duplicados': 0}, {'metric': 'ndvi_desvest_bisemanal', 'bisemanas_unicas': 26, 'duplicados': 0}]",Continuar
+NDVI,alineación espacial por bisemana,válido,26/26 bisemanas alineadas,Continuar
+NDVI,rangos físicos de píxel,válido,0 píxeles fuera del rango esperado,Conservar
+NDVI,mínimo ≤ media ≤ máximo por píxel,válido,0 píxeles comparables incumplen la relación,Conservar
+NDVI,cobertura por celda–bisemana,evaluación posterior,No se recalcula durante la auditoría global de las fuentes,Aplicar 80 % en 01_data_aggregation y evaluar sensibilidad en 02_data_null_exploration

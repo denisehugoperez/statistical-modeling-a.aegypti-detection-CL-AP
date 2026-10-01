@@ -1,0 +1,12 @@
+control,cantidad,unidad,detalle,resultado
+filas sin grid_id,0,filas,No es posible asignarlas a una celda.,no observado
+filas sin year,55,filas,Conteo descriptivo de ausencias en year.,observado
+filas sin epiweek,55,filas,Conteo descriptivo de ausencias en epiweek.,observado
+filas sin periodo completo,55,filas,"Falta year, epiweek o ambos; incluye las filas sin periodo observadas en la fuente.",observado
+combinaciones grid_id–year–epiweek duplicadas,0,filas,Cuenta todas las filas que participan en una llave repetida.,no observado
+filas fuera de 2024 o de las semanas 1–52,0,filas,"Se evalúa solo donde grid_id, year y epiweek están presentes.",no observado
+grid_id con menos o más de 52 semanas únicas,0,grid_id,Resume la completitud temporal del panel 2024.,no observado
+grid_id asociados a más de una geometría,0,grid_id,Un mismo identificador espacial debería conservar su geometría.,no observado
+grid_id con geometría representativa nula,0,grid_id,Se revisa una geometría representativa por grid_id.,no observado
+grid_id con geometría representativa vacía,0,grid_id,Una geometría vacía no delimita superficie.,no observado
+grid_id con geometría representativa inválida,0,grid_id,La validez se evalúa según las reglas geométricas de GeoPandas/Shapely; los nulos se cuentan por separado.,no observado

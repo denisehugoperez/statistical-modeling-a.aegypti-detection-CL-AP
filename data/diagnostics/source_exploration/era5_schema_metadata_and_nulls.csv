@@ -1,0 +1,17 @@
+variable,tipo,permite_nulos,nulos_observados,nulos_pct,tiene_metadatos,unidad_documentada
+grid_id,entero,Sí,0,0.0,No,No
+year,decimal,Sí,55,0.031,No,No
+epiweek,decimal,Sí,55,0.031,No,No
+tmean_c,decimal,Sí,55,0.031,No,No
+tmin_c,decimal,Sí,55,0.031,No,No
+tmax_c,decimal,Sí,55,0.031,No,No
+alt_min,decimal,Sí,262,0.1478,No,No
+alt_mean,decimal,Sí,262,0.1478,No,No
+alt_max,decimal,Sí,262,0.1478,No,No
+rh_mean,decimal,Sí,55,0.031,No,No
+rh_min,decimal,Sí,55,0.031,No,No
+rh_max,decimal,Sí,55,0.031,No,No
+tp_sum,decimal,Sí,55,0.031,No,No
+geometry,geometría WKB,Sí,0,0.0,Sí,No aplica
+koppen_fin,texto,Sí,0,0.0,No,No
+population,decimal,Sí,0,0.0,No,No
