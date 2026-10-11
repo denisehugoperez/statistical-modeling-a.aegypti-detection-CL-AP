@@ -1,0 +1,8 @@
+﻿matriz,columnas,resultado
+entomologia_epidemiologia,2,generada
+temperatura,30,generada
+humedad,30,generada
+precipitacion,10,generada
+NDVI,40,generada
+otras_ambientales,5,generada
+calidad_cobertura,0,sin columnas elegibles en la fuente

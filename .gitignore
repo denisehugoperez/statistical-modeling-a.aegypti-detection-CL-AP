@@ -1,2 +1,3 @@
 *.tif
 *.tiff
+/data/raw/geography/carto-chile.gpkg

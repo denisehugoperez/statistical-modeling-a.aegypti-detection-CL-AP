@@ -1,0 +1,6 @@
+﻿variable,ndvi_mean_biweekly,ndvi_max_biweekly,ndvi_mean_biweekly_popw,ndvi_max_biweekly_popw
+vector_findings,24,24,24,24
+eggs,24,24,24,24
+larvae,22,22,22,22
+pupae,22,22,22,22
+adults,22,22,22,22

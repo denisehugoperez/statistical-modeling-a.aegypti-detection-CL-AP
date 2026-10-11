@@ -1,0 +1,10 @@
+[
+  "Panel de 177,268 filas y 3,409 celdas, SE1–SE52, sin duplicados ni geometrías inválidas.",
+  "Solo 24 filas en 7 celdas tienen respuesta; faltan 99.9865% de los conteos y hay 0 ceros observados.",
+  "Total observado 3,613 vectores. Verano: 1,933; Otoño: 1,604; Invierno: 1; Primavera: 75. Máximo semanal: SE11, 1,792.",
+  "Huevos: 2,276; larvas: 1,104; pupas: 116; adultos: 117. 0 discrepancias entre estadios disponibles y respuesta.",
+  "La celda con mayor acumulación observada es grid_id 102 (3,259 vectores); los mapas de conteos dejan las celdas no observadas en gris.",
+  "Los 66 lags y 22 rolls ambientales construidos en 02 se conservan en el panel; sus nulos documentados y versiones popw se mantienen separadas.",
+  "NDVI medio y máximo: Spearman 0.563 con 177,268 pares; temperatura media semanal entre celdas: 7.20–13.40 °C.",
+  "Mayor asociación con total_vectores: total_records, Spearman 0.646, n=24; todas las correlaciones de la respuesta tienen pocos pares."
+]

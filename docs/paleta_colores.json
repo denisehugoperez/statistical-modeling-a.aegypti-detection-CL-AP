@@ -1,0 +1,115 @@
+{
+  "colors": [
+    {
+      "nombre": "dark_purple",
+      "hex": "#01012C",
+      "uso": "Precipitación acumulada y texto principal",
+      "origen": "HEX de primera imagen"
+    },
+    {
+      "nombre": "aeon_dark",
+      "hex": "#225453",
+      "uso": "Temperatura media y texto secundario",
+      "origen": "HEX de primera imagen"
+    },
+    {
+      "nombre": "bright_purple",
+      "hex": "#B3C0FB",
+      "uso": "Fondo de otoño",
+      "origen": "HEX de primera imagen"
+    },
+    {
+      "nombre": "aeon_light",
+      "hex": "#8CC63F",
+      "uso": "NDVI medio y fondo de primavera",
+      "origen": "HEX de primera imagen"
+    },
+    {
+      "nombre": "nature_white",
+      "hex": "#FAFCC7",
+      "uso": "Fondo de verano",
+      "origen": "HEX de primera imagen"
+    },
+    {
+      "nombre": "white",
+      "hex": "#FFFFFF",
+      "uso": "Fondo de figuras",
+      "origen": "HEX de primera imagen"
+    },
+    {
+      "nombre": "teal",
+      "hex": "#207D80",
+      "uso": "Marcas verticales de hallazgos",
+      "origen": "Aproximación visual de segunda imagen"
+    },
+    {
+      "nombre": "pale_cyan",
+      "hex": "#A3D3DE",
+      "uso": "Fondo de invierno",
+      "origen": "Aproximación visual de segunda imagen"
+    },
+    {
+      "nombre": "deep_teal",
+      "hex": "#006174",
+      "uso": "Humedad relativa media",
+      "origen": "Aproximación visual de segunda imagen"
+    },
+    {
+      "nombre": "ice_white",
+      "hex": "#F2F7FA",
+      "uso": "Fondo del área de trazado",
+      "origen": "Aproximación visual de segunda imagen"
+    },
+    {
+      "nombre": "soft_gray",
+      "hex": "#F4F4F4",
+      "uso": "Rellenos neutros",
+      "origen": "Aproximación visual de segunda imagen"
+    },
+    {
+      "nombre": "gray",
+      "hex": "#D9DADB",
+      "uso": "Cuadrícula, bordes y datos ausentes",
+      "origen": "Aproximación visual de segunda imagen"
+    },
+    {
+      "nombre": "charcoal",
+      "hex": "#4C4F50",
+      "uso": "Texto auxiliar",
+      "origen": "Aproximación visual de segunda imagen"
+    },
+    {
+      "nombre": "petrol",
+      "hex": "#193D4E",
+      "uso": "NDVI máximo",
+      "origen": "Aproximación visual de segunda imagen"
+    },
+    {
+      "nombre": "black",
+      "hex": "#000000",
+      "uso": "Marcas verticales de casos confirmados",
+      "origen": "Segunda imagen"
+    }
+  ],
+  "variables_ambientales": {
+    "tmean_c": "aeon_dark",
+    "rh_mean": "deep_teal",
+    "tp_sum": "dark_purple",
+    "ndvi_mean_biweekly": "aeon_light",
+    "ndvi_max_biweekly": "petrol"
+  },
+  "estaciones": {
+    "Verano": "nature_white",
+    "Otoño": "bright_purple",
+    "Invierno": "pale_cyan",
+    "Primavera": "aeon_light"
+  },
+  "eventos": {
+    "hallazgos": "teal",
+    "casos": "black"
+  },
+  "opacidad_estaciones": {
+    "fondo": 0.3,
+    "banda_superior": 0.85
+  }
+}

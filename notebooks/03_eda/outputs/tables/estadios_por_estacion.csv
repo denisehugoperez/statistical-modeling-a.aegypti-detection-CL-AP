@@ -1,0 +1,5 @@
+﻿season,eggs,larvae,pupae,adults,total_vectores,filas_con_conteo,suma_estadios_disponibles,diferencia
+Verano,1445.0,393.0,39.0,56.0,1933.0,6,1933.0,0.0
+Otoño,756.0,710.0,77.0,61.0,1604.0,15,1604.0,0.0
+Invierno,0.0,1.0,0.0,0.0,1.0,1,1.0,0.0
+Primavera,75.0,0.0,0.0,0.0,75.0,2,75.0,0.0

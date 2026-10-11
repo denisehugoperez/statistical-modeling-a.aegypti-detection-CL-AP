@@ -1,0 +1,27 @@
+﻿columna,pares,valores_x_en_pares,limitacion
+tmean_c,24,18,pocos pares; descriptiva
+tmin_c,24,18,pocos pares; descriptiva
+tmax_c,24,18,pocos pares; descriptiva
+tmean_c_popw,24,24,pocos pares; descriptiva
+tmin_c_popw,24,24,pocos pares; descriptiva
+tmax_c_popw,24,24,pocos pares; descriptiva
+elevation_min,24,7,pocos pares; descriptiva
+elevation_mean,24,7,pocos pares; descriptiva
+elevation_max,24,7,pocos pares; descriptiva
+rh_mean,24,18,pocos pares; descriptiva
+rh_min,24,18,pocos pares; descriptiva
+rh_max,24,18,pocos pares; descriptiva
+rh_mean_popw,24,24,pocos pares; descriptiva
+rh_min_popw,24,24,pocos pares; descriptiva
+rh_max_popw,24,24,pocos pares; descriptiva
+tp_sum,24,21,pocos pares; descriptiva
+tp_sum_popw,24,24,pocos pares; descriptiva
+population,24,7,pocos pares; descriptiva
+ndvi_min_biweekly,24,24,pocos pares; descriptiva
+ndvi_std_biweekly,24,19,pocos pares; descriptiva
+ndvi_mean_biweekly_popw,24,24,pocos pares; descriptiva
+ndvi_max_biweekly_popw,24,24,pocos pares; descriptiva
+ndvi_min_biweekly_popw,24,24,pocos pares; descriptiva
+ndvi_std_biweekly_popw,24,18,pocos pares; descriptiva
+ndvi_mean_biweekly,24,24,pocos pares; descriptiva
+ndvi_max_biweekly,24,24,pocos pares; descriptiva

@@ -1,0 +1,130 @@
+﻿columna,familia,transformacion,tipo_figura,incluida,justificacion_exclusion,pares_validos_con_total_vectores,datos_disponibles_pct
+grid_id,identificadores,original,correlaciones,False,clave o calendario auxiliar,24,100.0
+year,calendario,original,correlaciones,False,clave o calendario auxiliar,24,100.0
+epiweek,calendario,original,correlaciones,False,clave o calendario auxiliar,24,100.0
+tmean_c,temperatura,original,correlaciones,True,,24,100.0
+tmin_c,temperatura,original,correlaciones,True,,24,100.0
+tmax_c,temperatura,original,correlaciones,True,,24,100.0
+elevation_min,altitud,original,correlaciones,True,,24,100.0
+elevation_mean,altitud,original,correlaciones,True,,24,100.0
+elevation_max,altitud,original,correlaciones,True,,24,100.0
+rh_mean,humedad,original,correlaciones,True,,24,100.0
+rh_min,humedad,original,correlaciones,True,,24,100.0
+rh_max,humedad,original,correlaciones,True,,24,100.0
+tp_sum,precipitación,original,correlaciones,True,,24,100.0
+koppen_class,Köppen,original,correlaciones,False,no elegible para este grupo,24,100.0
+population,población,original,correlaciones,True,,24,100.0
+ndvi_mean_biweekly,NDVI,original,correlaciones,True,,24,100.0
+ndvi_max_biweekly,NDVI,original,correlaciones,True,,24,100.0
+ndvi_min_biweekly,NDVI,original,correlaciones,True,,24,100.0
+ndvi_std_biweekly,NDVI,original,correlaciones,True,,24,100.0
+epiweek_sin,calendario,original,correlaciones,False,clave o calendario auxiliar,24,100.0
+epiweek_cos,calendario,original,correlaciones,False,clave o calendario auxiliar,24,100.0
+total_records,entomología,original,correlaciones,True,,24,0.013538822573730172
+vector_findings,entomología,original,correlaciones,True,,24,0.013538822573730172
+eggs,entomología,original,correlaciones,False,estadio integrante de la respuesta,24,0.013538822573730172
+larvae,entomología,original,correlaciones,False,estadio integrante de la respuesta,22,0.012410587359252656
+pupae,entomología,original,correlaciones,False,estadio integrante de la respuesta,22,0.012410587359252656
+adults,entomología,original,correlaciones,False,estadio integrante de la respuesta,22,0.012410587359252656
+confirmed_cases,epidemiología,original,correlaciones,False,no elegible para este grupo,2,0.0022564704289550286
+reporting_centers,epidemiología,original,correlaciones,False,no elegible para este grupo,2,0.0022564704289550286
+tmean_c_lag_1,temperatura,lag,correlaciones,True,,24,98.07692307692307
+tmean_c_lag_2,temperatura,lag,correlaciones,True,,24,96.15384615384616
+tmean_c_lag_4,temperatura,lag,correlaciones,True,,24,92.3076923076923
+tmean_c_rolling_mean_4,temperatura,roll,correlaciones,True,,24,94.23076923076923
+tmin_c_lag_1,temperatura,lag,correlaciones,True,,24,98.07692307692307
+tmin_c_lag_2,temperatura,lag,correlaciones,True,,24,96.15384615384616
+tmin_c_lag_4,temperatura,lag,correlaciones,True,,24,92.3076923076923
+tmin_c_rolling_mean_4,temperatura,roll,correlaciones,True,,24,94.23076923076923
+tmax_c_lag_1,temperatura,lag,correlaciones,True,,24,98.07692307692307
+tmax_c_lag_2,temperatura,lag,correlaciones,True,,24,96.15384615384616
+tmax_c_lag_4,temperatura,lag,correlaciones,True,,24,92.3076923076923
+tmax_c_rolling_mean_4,temperatura,roll,correlaciones,True,,24,94.23076923076923
+rh_mean_lag_1,humedad,lag,correlaciones,True,,24,98.07692307692307
+rh_mean_lag_2,humedad,lag,correlaciones,True,,24,96.15384615384616
+rh_mean_lag_4,humedad,lag,correlaciones,True,,24,92.3076923076923
+rh_mean_rolling_mean_4,humedad,roll,correlaciones,True,,24,94.23076923076923
+rh_min_lag_1,humedad,lag,correlaciones,True,,24,98.07692307692307
+rh_min_lag_2,humedad,lag,correlaciones,True,,24,96.15384615384616
+rh_min_lag_4,humedad,lag,correlaciones,True,,24,92.3076923076923
+rh_min_rolling_mean_4,humedad,roll,correlaciones,True,,24,94.23076923076923
+rh_max_lag_1,humedad,lag,correlaciones,True,,24,98.07692307692307
+rh_max_lag_2,humedad,lag,correlaciones,True,,24,96.15384615384616
+rh_max_lag_4,humedad,lag,correlaciones,True,,24,92.3076923076923
+rh_max_rolling_mean_4,humedad,roll,correlaciones,True,,24,94.23076923076923
+tp_sum_lag_1,precipitación,lag,correlaciones,True,,24,98.07692307692307
+tp_sum_lag_2,precipitación,lag,correlaciones,True,,24,96.15384615384616
+tp_sum_lag_4,precipitación,lag,correlaciones,True,,24,92.3076923076923
+tp_sum_rolling_mean_4,precipitación,roll,correlaciones,True,,24,94.23076923076923
+ndvi_mean_biweekly_lag_1,NDVI,lag,correlaciones,True,,24,98.07692307692307
+ndvi_mean_biweekly_lag_2,NDVI,lag,correlaciones,True,,24,96.15384615384616
+ndvi_mean_biweekly_lag_4,NDVI,lag,correlaciones,True,,24,92.3076923076923
+ndvi_mean_biweekly_rolling_mean_4,NDVI,roll,correlaciones,True,,24,94.23076923076923
+ndvi_max_biweekly_lag_1,NDVI,lag,correlaciones,True,,24,98.07692307692307
+ndvi_max_biweekly_lag_2,NDVI,lag,correlaciones,True,,24,96.15384615384616
+ndvi_max_biweekly_lag_4,NDVI,lag,correlaciones,True,,24,92.3076923076923
+ndvi_max_biweekly_rolling_mean_4,NDVI,roll,correlaciones,True,,24,94.23076923076923
+ndvi_min_biweekly_lag_1,NDVI,lag,correlaciones,True,,24,98.07692307692307
+ndvi_min_biweekly_lag_2,NDVI,lag,correlaciones,True,,24,96.15384615384616
+ndvi_min_biweekly_lag_4,NDVI,lag,correlaciones,True,,24,92.3076923076923
+ndvi_min_biweekly_rolling_mean_4,NDVI,roll,correlaciones,True,,24,94.23076923076923
+ndvi_std_biweekly_lag_1,NDVI,lag,correlaciones,True,,24,98.07692307692307
+ndvi_std_biweekly_lag_2,NDVI,lag,correlaciones,True,,24,96.15384615384616
+ndvi_std_biweekly_lag_4,NDVI,lag,correlaciones,True,,24,92.3076923076923
+ndvi_std_biweekly_rolling_mean_4,NDVI,roll,correlaciones,True,,24,94.23076923076923
+population_weight,población,original,correlaciones,True,,24,100.0
+tmean_c_popw,temperatura,original,correlaciones,True,,24,100.0
+tmin_c_popw,temperatura,original,correlaciones,True,,24,100.0
+tmax_c_popw,temperatura,original,correlaciones,True,,24,100.0
+rh_mean_popw,humedad,original,correlaciones,True,,24,100.0
+rh_min_popw,humedad,original,correlaciones,True,,24,100.0
+rh_max_popw,humedad,original,correlaciones,True,,24,100.0
+tp_sum_popw,precipitación,original,correlaciones,True,,24,100.0
+ndvi_mean_biweekly_popw,NDVI,original,correlaciones,True,,24,100.0
+ndvi_max_biweekly_popw,NDVI,original,correlaciones,True,,24,100.0
+ndvi_min_biweekly_popw,NDVI,original,correlaciones,True,,24,100.0
+ndvi_std_biweekly_popw,NDVI,original,correlaciones,True,,24,100.0
+tmean_c_lag_1_popw,temperatura,lag,correlaciones,True,,24,98.07692307692307
+tmean_c_lag_2_popw,temperatura,lag,correlaciones,True,,24,96.15384615384616
+tmean_c_lag_4_popw,temperatura,lag,correlaciones,True,,24,92.3076923076923
+tmean_c_rolling_mean_4_popw,temperatura,roll,correlaciones,True,,24,94.23076923076923
+tmin_c_lag_1_popw,temperatura,lag,correlaciones,True,,24,98.07692307692307
+tmin_c_lag_2_popw,temperatura,lag,correlaciones,True,,24,96.15384615384616
+tmin_c_lag_4_popw,temperatura,lag,correlaciones,True,,24,92.3076923076923
+tmin_c_rolling_mean_4_popw,temperatura,roll,correlaciones,True,,24,94.23076923076923
+tmax_c_lag_1_popw,temperatura,lag,correlaciones,True,,24,98.07692307692307
+tmax_c_lag_2_popw,temperatura,lag,correlaciones,True,,24,96.15384615384616
+tmax_c_lag_4_popw,temperatura,lag,correlaciones,True,,24,92.3076923076923
+tmax_c_rolling_mean_4_popw,temperatura,roll,correlaciones,True,,24,94.23076923076923
+rh_mean_lag_1_popw,humedad,lag,correlaciones,True,,24,98.07692307692307
+rh_mean_lag_2_popw,humedad,lag,correlaciones,True,,24,96.15384615384616
+rh_mean_lag_4_popw,humedad,lag,correlaciones,True,,24,92.3076923076923
+rh_mean_rolling_mean_4_popw,humedad,roll,correlaciones,True,,24,94.23076923076923
+rh_min_lag_1_popw,humedad,lag,correlaciones,True,,24,98.07692307692307
+rh_min_lag_2_popw,humedad,lag,correlaciones,True,,24,96.15384615384616
+rh_min_lag_4_popw,humedad,lag,correlaciones,True,,24,92.3076923076923
+rh_min_rolling_mean_4_popw,humedad,roll,correlaciones,True,,24,94.23076923076923
+rh_max_lag_1_popw,humedad,lag,correlaciones,True,,24,98.07692307692307
+rh_max_lag_2_popw,humedad,lag,correlaciones,True,,24,96.15384615384616
+rh_max_lag_4_popw,humedad,lag,correlaciones,True,,24,92.3076923076923
+rh_max_rolling_mean_4_popw,humedad,roll,correlaciones,True,,24,94.23076923076923
+tp_sum_lag_1_popw,precipitación,lag,correlaciones,True,,24,98.07692307692307
+tp_sum_lag_2_popw,precipitación,lag,correlaciones,True,,24,96.15384615384616
+tp_sum_lag_4_popw,precipitación,lag,correlaciones,True,,24,92.3076923076923
+tp_sum_rolling_mean_4_popw,precipitación,roll,correlaciones,True,,24,94.23076923076923
+ndvi_mean_biweekly_lag_1_popw,NDVI,lag,correlaciones,True,,24,98.07692307692307
+ndvi_mean_biweekly_lag_2_popw,NDVI,lag,correlaciones,True,,24,96.15384615384616
+ndvi_mean_biweekly_lag_4_popw,NDVI,lag,correlaciones,True,,24,92.3076923076923
+ndvi_mean_biweekly_rolling_mean_4_popw,NDVI,roll,correlaciones,True,,24,94.23076923076923
+ndvi_max_biweekly_lag_1_popw,NDVI,lag,correlaciones,True,,24,98.07692307692307
+ndvi_max_biweekly_lag_2_popw,NDVI,lag,correlaciones,True,,24,96.15384615384616
+ndvi_max_biweekly_lag_4_popw,NDVI,lag,correlaciones,True,,24,92.3076923076923
+ndvi_max_biweekly_rolling_mean_4_popw,NDVI,roll,correlaciones,True,,24,94.23076923076923
+ndvi_min_biweekly_lag_1_popw,NDVI,lag,correlaciones,True,,24,98.07692307692307
+ndvi_min_biweekly_lag_2_popw,NDVI,lag,correlaciones,True,,24,96.15384615384616
+ndvi_min_biweekly_lag_4_popw,NDVI,lag,correlaciones,True,,24,92.3076923076923
+ndvi_min_biweekly_rolling_mean_4_popw,NDVI,roll,correlaciones,True,,24,94.23076923076923
+ndvi_std_biweekly_lag_1_popw,NDVI,lag,correlaciones,True,,24,98.07692307692307
+ndvi_std_biweekly_lag_2_popw,NDVI,lag,correlaciones,True,,24,96.15384615384616
+ndvi_std_biweekly_lag_4_popw,NDVI,lag,correlaciones,True,,24,92.3076923076923
+ndvi_std_biweekly_rolling_mean_4_popw,NDVI,roll,correlaciones,True,,24,94.23076923076923
